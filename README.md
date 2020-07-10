@@ -4,7 +4,6 @@ This is not the first time that 'smart' vehicles have been used to improve emerg
 
 This is a project in which especially designed cars are been used in emergency services. We have attached sensors on each side of the vehicle. When the car gets bumped in by some vehicle or other object, a signal is transmitted to nearby hospital. The alert message can be stopped as per the wish of user; like in case the collision is minor. After the message is received by the hospital an ambulance can be sent at the accident spot. This can be done by tracking the location through GPS system. This step is taken to redefine the boundaries of emergency healthcare and help professionals provide better care than ever.
 
-
 ### Hardware Information:
 
 - Proximity Sensors are used for sensing the nearness to obstacles. 
