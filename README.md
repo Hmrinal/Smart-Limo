@@ -14,7 +14,6 @@ This is a project in which especially designed cars are been used in emergency s
 
 ### Software Information: 
 
-
 - GPS tracking information is being used,
 - App Development technique is used, 
 - Software for sensor coding like Arduino is used.
