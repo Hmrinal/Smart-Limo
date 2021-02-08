@@ -1,4 +1,4 @@
-# Smart-Limo
+# Smart Limo
 
 This is not the first time that 'smart' vehicles have been used to improve emergency services, with tiny smart cars in Sydney being used to navigate traffic easily and get paramedics on the scene quicker. Likewise, digital technology is revolutionising the medical sector everywhere we turn. The Smart Limo epitomise how technology can change the way health professionals access and manage vital information.
 
